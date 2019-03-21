@@ -1,0 +1,15 @@
+1 基本数据类型模式匹配
+2 Scala 异常处理
+3 Array模式匹配
+4 case class 模式匹配
+5 List模式匹配
+6 Some&None模式匹配
+
+//TODO
+1:
+变量 match {
+    case value1 => 代码1
+    case value2 => 代码2
+    ...
+    case _ => 代码N
+}
